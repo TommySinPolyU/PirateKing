@@ -14,10 +14,10 @@ Programming Language: C#\
 Development Device OS: Windows 10
 
 ## ScreenShots
-<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_Main.png" width="400">
-<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_Shop.png" width="400">
-<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_SkillTree.png" width="400">
-<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_BattlePrepare.png" width="400">
-<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_Battle.png" width="400">
+<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_Main.png" width="800">
+<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_Shop.png" width="800">
+<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_SkillTree.png" width="800">
+<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_BattlePrepare.png" width="800">
+<img src="https://github.com/TommySinPolyU/PirateKing/blob/main/screenshots/Ship_Battle.png" width="800">
 
 Copyright © 2019 Sin Siu Wa,Tommy All rights reserved
